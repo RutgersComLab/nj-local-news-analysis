@@ -10,5 +10,5 @@ The data used in each section for the porejct can be downloaded from [here](http
 # Results
 The output of each section for the porejct can be downloaded from [here](https://rutgers.box.com/s/w89hl3crtb6z1jho3n3dcnqroioosft3)
 
-# Visualizations:
+# Visualizations
 All the visualziation built can be seen [here](https://datastudio.google.com/s/tfYPfJKryhE)
