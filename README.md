@@ -2,7 +2,7 @@
 Analyzing the local news published in online media sources in New Jersey in the year 2019-2020.
 
 # Data
-The data used in each section for the porejct can be downloaded from [here](https://rutgers.box.com/s/lywjn96ufieihzglgxeyw6vdr1gvsuvs).
+The data used in each section for the project can be downloaded from [here](https://rutgers.box.com/s/lywjn96ufieihzglgxeyw6vdr1gvsuvs).
 
 # Code
 [This file](Project.ipynb) holds all the code. It has been titled and documented well, including the inputs and outputs of each section.
