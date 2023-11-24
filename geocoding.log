@@ -8298,3 +8298,11 @@
 2023-11-09 22:49:50,785 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
 2023-11-09 22:49:50,787 - Comm - WARNING - No such comm: 6023a874-1cbf-4af9-a444-268cbcf74174
 2023-11-09 22:49:50,787 - Comm - DEBUG - Current comms: []
+2023-11-12 23:40:36,851 - urllib3.util.retry - DEBUG - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2023-11-12 23:40:36,852 - urllib3.util.retry - DEBUG - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2023-11-13 00:07:31,116 - urllib3.util.retry - DEBUG - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2023-11-13 00:07:31,117 - urllib3.util.retry - DEBUG - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2023-11-13 00:31:45,299 - urllib3.util.retry - DEBUG - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2023-11-13 00:31:45,300 - urllib3.util.retry - DEBUG - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2023-11-13 00:36:40,142 - urllib3.util.retry - DEBUG - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2023-11-13 00:36:40,143 - urllib3.util.retry - DEBUG - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
